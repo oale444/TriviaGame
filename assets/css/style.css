@@ -1,0 +1,73 @@
+body {
+    background-image: url(../images/world.jpg);
+    text-align: center;
+    font-size: 400%;
+    margin-left: 25%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.jumbotron {
+    opacity: .8;
+    margin: 0;
+    width:  840px;
+    height: 900px; 
+    text-align: center;
+}   
+h1 {
+    text-align: center;
+
+}
+h3 {
+    text-align: center;
+   
+}
+.start {
+    text-align: center;
+}
+@media only screen and (max-width: 1190px) {
+    .jumbotron, .body, div, .h1, .h3 {
+        max-width: 100%;
+        background-image: 100%;
+    }
+}
+
+@media only screen and (max-width: 795px) {
+    .jumbotron, .body, div, .h1, .h3, {
+        max-width: 100%;
+        background-image: 100%;
+    }
+}
+@media only screen and (max-width: 750px) {
+    .jumbotron, .body, div, .h1, .h3, {
+        margin-bottom: 0;
+        max-width: 100%;
+        background-image: 100%;
+
+    }
+}
+@media only screen and (max-width: 620px) {
+    .jumbotron, .body, div, .h1, .h3, {
+        margin-bottom: 0;
+        max-width: 100%;
+        background-image: 100%;
+
+    }
+}
+@media only screen and (max-width: 500px) {
+    .jumbotron, .body, div, .h1, .h3, {
+        margin-bottom: 0;
+        max-width: 100%;
+        background-image: 100%;
+    }
+}  
+@media only screen and (max-width: 450px) {
+    .jumbotron, .body, div, .h1, .h3, {
+         margin-bottom: 0;
+         max-width: 100%;
+         background-image: 100%;
+     }
+ }  
+ 
+
+
+ 

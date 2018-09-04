@@ -2,6 +2,7 @@
 A fun trivia game with 16 questions that tests your continental knowledge.
 
 I used html, bootstrap, css, and jQuery. 
+Deployed with Netify
 
 # Rules
 Click begin quiz to start. 
@@ -15,4 +16,6 @@ Unhappy with results?
 Click the massive Try Again button to replay! 
 
 # Live link
-https://oale444.github.io/TriviaGame/
+https://continent-trivial-test.netlify.com/
+
+<img src="trivia2.png">
